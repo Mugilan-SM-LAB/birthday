@@ -11,12 +11,3 @@ A beautiful, animated birthday greeting page built with **Vanilla JavaScript** a
 - ⚡ No build step, no framework, no server required
 
 
-```
-
-
-
----
-
-> Find me on [GitHub](https://github.com/fajarghifar) &nbsp;&middot;&nbsp; [YouTube](https://www.youtube.com/@fajarghifar) &nbsp;&middot;&nbsp; [Instagram](https://instagram.com/fajarghifar) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/in/fajarghifar/)
-
----
